@@ -24,8 +24,8 @@ This program blocks disctracting apps to help you focus.
 ### Installing
 
 ```
-git clone
-cd
+git clone https://github.com/KaiSimpson13123/FocusNow.git
+cd FocusNow-main
 ```
 
 ### Executing program
